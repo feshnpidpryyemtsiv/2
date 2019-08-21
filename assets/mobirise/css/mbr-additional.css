@@ -1,3 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Comfortaa:300,400,500,600,700);
+
+
+
 body {
   font-style: normal;
   line-height: 1.5;
@@ -14,21 +18,21 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'RobotoSlab-Bold';
+  font-family: 'Comfortaa', display;
   font-size: 3rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-2 {
-  font-family: 'RobotoSlab-Bold';
+  font-family: 'Comfortaa', display;
   font-size: 2.5rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 4rem;
 }
 .display-4 {
-  font-family: 'RobotoSlab-Regular';
+  font-family: 'Comfortaa', display;
   font-size: 1rem;
 }
 .display-4 > .mbr-iconfont {
@@ -1814,15 +1818,12 @@ body {
 .cid-ryonUlm7BR .dropdown-item:hover {
   color: #40ba94 !important;
 }
-.cid-rzD3fSNYQI {
-  background-image: url("../../../assets/images/5u6a5981-2000x1334.jpg");
-}
 .cid-rzD3fSNYQI H1 {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-rzD3fSNYQI .mbr-text,
 .cid-rzD3fSNYQI .mbr-section-btn {
-  color: #767676;
+  color: #efefef;
 }
 .cid-rzfzBqZDGo {
   background: #ffffff;
